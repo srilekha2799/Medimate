@@ -168,7 +168,7 @@ MONGO_URI=your_mongo_uri_here
 ![Dashboard](screenshots/dashboard.png)
 
 ### Pharmacy
-![Pharmacy](screenshots/pharmacy.png)
+![Pharmacy](screenshots/Pharmacy.png)
 
 ---
 
